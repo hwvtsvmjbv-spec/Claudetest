@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://proficientdetails.com.au/sitemap.xml
